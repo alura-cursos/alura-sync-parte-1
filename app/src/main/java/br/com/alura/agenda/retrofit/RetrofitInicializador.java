@@ -14,6 +14,7 @@ public class RetrofitInicializador {
 
     private final Retrofit retrofit;
 
+
     public RetrofitInicializador() {
 
         HttpLoggingInterceptor interceptor = new HttpLoggingInterceptor();
